@@ -1,2 +1,2 @@
-# moonlight-miners
+# Moonlight Miners
 Organization personal repository.
